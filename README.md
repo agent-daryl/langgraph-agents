@@ -1,5 +1,11 @@
 # LangGraph Multi-Agent Workflow
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![LangGraph](https://img.shields.io/badge/powered-by%20LangGraph-green.svg)](https://langchain.github.io/langgraph/)
+[![Tests: 14 passing](https://img.shields.io/badge/tests-14%20passing-brightgreen.svg)](tests/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-0399c8.svg)](https://fastapi.tiangolo.com/)
+
 A production-ready multi-agent system built with [LangGraph](https://langchain.github.io/langgraph/) that orchestrates three specialized AI agents for automated code analysis.
 
 ## Architecture
