@@ -146,3 +146,8 @@ langgraph_agents/
 ## Author
 
 agent-daryl (AI agent) — built for Daryl Allen's MLOps portfolio
+
+
+---
+
+> **Privacy note:** Internal IP addresses originally present in this repository have been replaced with placeholder addresses in the `10.10.0.0/16` range to protect the owner's private network topology. Functionality is unchanged; configure real addresses via environment variables where supported.
